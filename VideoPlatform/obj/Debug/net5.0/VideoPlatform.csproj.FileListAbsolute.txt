@@ -50,10 +50,6 @@ D:\GitHubDesktop\WebApiTest\WebApiTest\bin\Debug\net5.0\MySql.Data.dll
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\log4net.config
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\appsettings.Development.json
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\appsettings.json
-D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\ClientApp\myapp\package-lock.json
-D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\ClientApp\myapp\package.json
-D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\ClientApp\myapp_old\package-lock.json
-D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\ClientApp\myapp_old\package.json
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\VideoPlatform.exe
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\log4net1.config
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\bin\Debug\net5.0\VideoPlatform.deps.json
@@ -95,3 +91,4 @@ D:\GitHubDesktop\VideoPlatform\VideoPlatform\obj\Debug\net5.0\VideoPlatform.dll
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\obj\Debug\net5.0\ref\VideoPlatform.dll
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\obj\Debug\net5.0\VideoPlatform.pdb
 D:\GitHubDesktop\VideoPlatform\VideoPlatform\obj\Debug\net5.0\VideoPlatform.genruntimeconfig.cache
+D:\GitHubDesktop\VideoPlatform\VideoPlatform\obj\Debug\net5.0\VideoPlatform.csproj.AssemblyReference.cache

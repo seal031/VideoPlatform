@@ -72,7 +72,7 @@ namespace VideoPlatform
             //æ≤Ã¨Õº∆¨∑√Œ 
             app.UseStaticFiles(new StaticFileOptions
             {
-                FileProvider = new PhysicalFileProvider(@"D:\GitHubDesktop\WebApiTest\WebApiTest\Images"),
+                FileProvider = new PhysicalFileProvider(@"D:\GitHubDesktop\VideoPlatform\VideoPlatform\Images"),
                 RequestPath = "/Images"
             });
         }
